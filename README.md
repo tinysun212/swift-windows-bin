@@ -1,3 +1,3 @@
-Swift binaries for CYGWIN
+Swift binaries for Windows
 
-source: https://github.com/tinysun212/swift-cygwin 
+source: https://github.com/tinysun212/swift-windows 
