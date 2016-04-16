@@ -1,3 +1,3 @@
-Swift binaries for Windows
+MOVED TO https://github.com/tinysun212/swift-windows/releases
 
-source: https://github.com/tinysun212/swift-windows 
+Download NEW build from there
